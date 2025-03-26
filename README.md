@@ -35,6 +35,6 @@ This assignment covers SQL Injection, NoSQL Injection, and Cross-Site Scripting 
 
 For detailed writeups, check [Assignment 1](./assignment1/README.md).
 
-## Assignmen 2 (Homework 2) - PortSwigger Web security
+## Assignment 2 (Homework 2) - PortSwigger Web security
 
 For detailed information [Homework 2](./homework2/README.md)
