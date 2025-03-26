@@ -5,6 +5,7 @@ This repository contains writeups for cybersecurity assignments as part of the C
 ## Assignments
 
 * [Assignment 1](./assignment1/README.md)
+* [Homework 2](./homework2//README.md)
 
 
 ## Submission Guidelines
@@ -33,3 +34,7 @@ This assignment covers SQL Injection, NoSQL Injection, and Cross-Site Scripting 
 | Advanced SQL Injection | [Advanced SQL Injection](https://tryhackme.com/room/advancedsqlinjection) |
 
 For detailed writeups, check [Assignment 1](./assignment1/README.md).
+
+## Assignmen 2 (Homework 2) - PortSwigger Web security
+
+For detailed information [Homework 2](./homework2/README.md)
